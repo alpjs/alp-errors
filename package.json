@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/alpjs/alp-errors#readme",
   "dependencies": {
-    "alp-errors-node": "^1.0.0"
+    "alp-errors-node": "^2.3.0"
   }
 }
