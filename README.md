@@ -1,5 +1,7 @@
 # auk-errors
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-errors.svg)](https://greenkeeper.io/)
+
 ```js
 import Koa from 'koa';
 import config from 'auk-config';
